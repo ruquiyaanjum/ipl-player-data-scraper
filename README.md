@@ -35,5 +35,3 @@ This project scrapes the player statistics of the Royal Challengers Bangalore (R
 MIT License
 
 
-5. 
-
