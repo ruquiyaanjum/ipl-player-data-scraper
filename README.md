@@ -20,31 +20,20 @@ This project scrapes the player statistics of the Royal Challengers Bangalore (R
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/ipl-player-data-scraper.git
-Install required dependencies:
-bash
-Copy code
-pip install selenium webdriver-manager beautifulsoup4
-How to Run
-Navigate to the project folder:
-
-bash
-Copy code
-cd ipl-player-data-scraper
-Run the script:
-
-bash
-Copy code
-python scrape_ipl_data.py
-The data will be saved as ipl_data.csv.
-
-Output
-The output will be saved in a CSV file named ipl_data.csv, containing player details like name, role, and other stats.
-
-License
+2. Install required dependencies:
+   ```bash
+   pip install selenium webdriver-manager beautifulsoup4
+## How to Run
+1. Navigate to the project folder:
+   ```bash
+   cd ipl-player-data-scraper
+2. Run the script:
+   ```bash
+   python scrape_ipl_data.py
+3. The data will be saved as ipl_data.csv.
+## License
 MIT License
 
-Contributing
-Fork the repository.
-Create a new branch for your changes.
-Commit your changes and push.
-Open a pull request.
+
+5. 
+
